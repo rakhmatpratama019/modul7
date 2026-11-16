@@ -11,11 +11,6 @@
 -   **NIM:** 109082530037
 -   **Kelas:** S1IF-13-01
 
-> README ini mendokumentasikan materi, Guided, dan tiga latihan Unguided
-> pada Modul 07. Ganti bagian identitas dan tambahkan tangkapan layar
-> hasil eksekusi pada folder `screenshots/` sebelum mengumpulkan
-> repository.
-
 ------------------------------------------------------------------------
 
 ## Daftar Isi
